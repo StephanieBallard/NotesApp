@@ -80,8 +80,8 @@
 				2E4A07A51C42F3F2007F415F /* Controllers */,
 				2E4A07A61C42F3F2007F415F /* Views */,
 				2E4A07A71C42F3F2007F415F /* Models */,
-				2E4A07931C42F3B0007F415F /* AppDelegate.swift */,
 				848490D11D68F5610043C60B /* MakeSchoolNotes.xcdatamodeld */,
+				2E4A07931C42F3B0007F415F /* AppDelegate.swift */,
 				2E4A07971C42F3B0007F415F /* Main.storyboard */,
 				2E4A079A1C42F3B0007F415F /* Assets.xcassets */,
 				2E4A079C1C42F3B0007F415F /* LaunchScreen.storyboard */,
@@ -171,6 +171,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
